@@ -1,0 +1,10 @@
+<?php
+$name=array("Anu","Priya","Rawat");
+sort($name);
+$length=count($name);
+for($x=0;$x<length;$x++)
+{
+ echo $name[$x];
+ echo "<br>;
+ }
+ ?>
